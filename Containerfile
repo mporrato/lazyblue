@@ -21,7 +21,7 @@ RUN <<-'EOT' sh
             gnome-classic-session
 	fi
 
-    rpm-ostree override remove nano mesa-va-drivers fdk-aac-free libavcodec-free libavdevice-free libavfilter-free \
+    rpm-ostree override remove mesa-va-drivers fdk-aac-free libavcodec-free libavdevice-free libavfilter-free \
         libavformat-free libavutil-free libpostproc-free libswresample-free libswscale-free ffmpeg-free \
         --install mesa-va-drivers-freeworld --install ffmpeg
 
