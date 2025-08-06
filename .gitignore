@@ -1,4 +1,6 @@
 *~
 *%
 *.swp
+*.key
+*.private
 *.iso
