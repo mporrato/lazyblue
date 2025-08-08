@@ -7,6 +7,7 @@ modules:
       - cascadia-fonts-all
       - fira-code-fonts
       - fontawesome-fonts-all
+      - google-roboto-fonts
       - ibm-plex-mono-fonts
       - ibm-plex-sans-fonts
       - ibm-plex-serif-fonts
