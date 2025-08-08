@@ -10,4 +10,4 @@ alt-tags:
   - stable
 
 modules:
-  - from-file: common-modules.yml
+  - from-file: tweaks.yml
