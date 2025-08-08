@@ -1,0 +1,9 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+modules:
+  - from-file: tweaks/non-free.yml
+  - from-file: tweaks/packages.yml
+  - from-file: tweaks/flatpaks.yml
+  - from-file: tweaks/desktop-theme.yml
+  - from-file: tweaks/disable-automount.yml
+  - type: signing
