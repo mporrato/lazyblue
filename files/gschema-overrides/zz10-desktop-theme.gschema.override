@@ -1,0 +1,12 @@
+[org.gnome.desktop.background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/gnome/lcd-rainbow-l.jxl'
+picture-uri-dark='file:///usr/share/backgrounds/gnome/lcd-rainbow-d.jxl'
+primary-color='#77767B'
+secondary-color='#000000'
+
+[org.gnome.desktop.interface]
+color-scheme='prefer-dark'
+gtk-theme='Adwaita-dark'
+toolkit-accessibility=false

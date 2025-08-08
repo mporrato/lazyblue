@@ -1,0 +1,34 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+modules:
+  - type: dnf
+    repos:
+      nonfree: rpmfusion
+  - type: rpm-ostree
+    install:
+      - fdk-aac
+      - ffmpeg
+      - ffmpeg-libs
+      - ffmpegthumbnailer
+      - gstreamer1-plugin-libav
+      - gstreamer1-plugins-bad-free-extras
+      - gstreamer1-plugins-bad-freeworld
+      - gstreamer1-plugins-ugly
+      - gstreamer1-vaapi
+      - intel-media-driver
+      - mesa-va-drivers-freeworld
+      - mesa-vdpau-drivers-freeworld
+      - pipewire-codec-aptx
+      - unrar
+    remove:
+      - fdk-aac-free
+      - ffmpeg-free
+      - libavcodec-free
+      - libavdevice-free
+      - libavfilter-free
+      - libavformat-free
+      - libavutil-free
+      - libpostproc-free
+      - libswresample-free
+      - libswscale-free
+      - mesa-va-drivers

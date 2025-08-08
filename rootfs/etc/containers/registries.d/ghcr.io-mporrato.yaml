@@ -1,4 +1,0 @@
----
-docker:
-  ghcr.io/mporrato:
-    use-sigstore-attachments: true

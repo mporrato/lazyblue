@@ -1,0 +1,14 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+modules:
+  - type: default-flatpaks
+    configurations:
+      - notify: true
+        scope: system
+        install:
+          - com.github.johnfactotum.Foliate
+          - com.github.tchx84.Flatseal
+          - io.github.flattool.Warehouse
+          - org.gnome.Boxes
+          - org.gnome.Loupe
+      - scope: user

@@ -1,0 +1,26 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+modules:
+  - type: rpm-ostree
+    install:
+      - buildah
+      - distrobox
+      - dmidecode
+      - git
+      - htop
+      - inxi
+      - jq
+      - micro
+      - p7zip
+      - podman
+      - podman-compose
+      - podman-docker
+      - screen
+      - skopeo
+      - syncthing
+      - tmux
+      - vim
+      - vim-ale
+      - vim-nerdtree
+      - yq
+      - zstd
