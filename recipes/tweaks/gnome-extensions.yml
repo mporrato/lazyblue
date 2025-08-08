@@ -1,0 +1,9 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+modules:
+  - type: gnome-extensions
+    install:
+      - "615" # AppIndicator and KStatusNotifierItem Support
+      - "307" # Dash to Dock
+      - "6099" # PaperWM
+      - "1070" # Syncthing Indicator
