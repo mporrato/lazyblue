@@ -10,7 +10,7 @@ alt-tags:
   - next
 
 modules:
-  - from-file: tweaks/proprietary.yml
+  - from-file: tweaks/non-free.yml
   - from-file: tweaks/packages.yml
   - from-file: tweaks/flatpaks.yml
   - from-file: tweaks/desktop-theme.yml
