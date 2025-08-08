@@ -4,10 +4,10 @@ name: lazyblue
 description: Vanilla Fedora Silverblue with some quality of life improvements
 
 base-image: quay.io/fedora/fedora-silverblue
-image-version: 42
+image-version: 43
 
 alt-tags:
-  - stable
+  - next
 
 modules:
   - from-file: tweaks/proprietary.yml
