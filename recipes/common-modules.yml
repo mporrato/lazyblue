@@ -8,5 +8,6 @@ modules:
   - from-file: tweaks/flatpaks.yml
   - from-file: tweaks/desktop-theme.yml
   - from-file: tweaks/disable-automount.yml
+  - from-file: tweaks/touchpad.yml
   - from-file: tweaks/gnome-extensions.yml
   - type: signing
