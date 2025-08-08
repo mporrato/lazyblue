@@ -2,6 +2,7 @@
 # yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
 modules:
   - from-file: tweaks/non-free.yml
+  - from-file: tweaks/tailscale.yml
   - from-file: tweaks/podman.yml
   - from-file: tweaks/packages.yml
   - from-file: tweaks/flatpaks.yml
