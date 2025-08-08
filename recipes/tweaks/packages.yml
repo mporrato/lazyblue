@@ -3,7 +3,6 @@
 modules:
   - type: rpm-ostree
     install:
-      - buildah
       - distrobox
       - dmidecode
       - git
@@ -12,11 +11,7 @@ modules:
       - jq
       - micro
       - p7zip
-      - podman
-      - podman-compose
-      - podman-docker
       - screen
-      - skopeo
       - syncthing
       - tmux
       - vim
