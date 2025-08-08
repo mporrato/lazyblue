@@ -5,6 +5,7 @@ modules:
   - from-file: tweaks/tailscale.yml
   - from-file: tweaks/podman.yml
   - from-file: tweaks/packages.yml
+  - from-file: tweaks/fonts.yml
   - from-file: tweaks/flatpaks.yml
   - from-file: tweaks/desktop-theme.yml
   - from-file: tweaks/disable-automount.yml

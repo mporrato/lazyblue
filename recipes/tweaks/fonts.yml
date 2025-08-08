@@ -1,0 +1,15 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+modules:
+  - type: rpm-ostree
+    install:
+      - adobe-source-code-pro-fonts
+      - cascadia-fonts-all
+      - fira-code-fonts
+      - fontawesome-fonts-all
+      - ibm-plex-mono-fonts
+      - ibm-plex-sans-fonts
+      - ibm-plex-serif-fonts
+      - levien-inconsolata-fonts
+      - mozilla-fira-mono-fonts
+      - mozilla-fira-sans-fonts
