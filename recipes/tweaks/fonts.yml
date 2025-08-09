@@ -14,3 +14,4 @@ modules:
       - levien-inconsolata-fonts
       - mozilla-fira-mono-fonts
       - mozilla-fira-sans-fonts
+      - source-foundry-hack-fonts
