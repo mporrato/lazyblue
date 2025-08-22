@@ -1,0 +1,15 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+modules:
+  - type: rpm-ostree
+    install:
+      - guestfs-tools
+      - libvirt
+      - qemu-img
+      - qemu-kvm
+      - qemu-user-binfmt
+      - qemu-user-static
+      - virt-install
+      - virt-manager
+      - virt-p2v
+      - virt-v2v
