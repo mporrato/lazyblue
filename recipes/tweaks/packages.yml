@@ -24,3 +24,6 @@ modules:
       - vim-nerdtree
       - yq
       - zstd
+    remove:
+      - firefox
+      - firefox-langpacks

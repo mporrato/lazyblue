@@ -11,5 +11,6 @@ modules:
           - io.github.flattool.Warehouse
           - org.gnome.Boxes
           - org.gnome.Loupe
+          - org.mozilla.firefox
       - scope: user
         notify: false
