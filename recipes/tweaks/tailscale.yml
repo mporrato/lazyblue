@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
 modules:
   - type: rpm-ostree
+    # This is currently not working for Fedora 43
+    # https://github.com/coreos/rpm-ostree/issues/5494
     repos:
       - https://pkgs.tailscale.com/stable/fedora/tailscale.repo
     install:
