@@ -11,11 +11,13 @@ modules:
       - jq
       - micro
       - p7zip
+      - p7zip-plugins
       - pipx
       - ripgrep
       - screen
       - stow
       - syncthing
+      - tcpdump
       - tmux
       - vim
       - vim-ale
