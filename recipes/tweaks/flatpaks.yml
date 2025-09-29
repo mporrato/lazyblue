@@ -8,7 +8,7 @@ modules:
         install:
           - com.github.johnfactotum.Foliate
           - com.github.tchx84.Flatseal
-          - io.github.flattool.Warehouse
+          - io.github.kolunmi.Bazaar
           - org.gnome.Boxes
           - org.gnome.Loupe
           - org.mozilla.firefox
