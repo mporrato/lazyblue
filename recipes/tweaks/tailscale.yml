@@ -14,4 +14,4 @@ modules:
         - tailscaled.service
   - type: gnome-extensions
     install:
-      - "6139"  # Tailscale QS
+      - "5112" # Tailscale Status

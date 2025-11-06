@@ -12,6 +12,4 @@ modules:
       - ibm-plex-sans-fonts
       - ibm-plex-serif-fonts
       - levien-inconsolata-fonts
-      - mozilla-fira-mono-fonts
-      - mozilla-fira-sans-fonts
       - source-foundry-hack-fonts
