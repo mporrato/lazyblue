@@ -5,4 +5,3 @@
 *.private
 *.iso
 Containerfile
-/.bluebuild-scripts_*
