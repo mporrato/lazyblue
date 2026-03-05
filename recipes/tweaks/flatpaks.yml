@@ -12,5 +12,3 @@ modules:
           - org.gnome.Boxes
           - org.gnome.Loupe
           - org.mozilla.firefox
-      - scope: user
-        notify: false
