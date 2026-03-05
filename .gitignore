@@ -4,4 +4,5 @@
 *.key
 *.private
 *.iso
+.bluebuild-scripts_*
 Containerfile
