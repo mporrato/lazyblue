@@ -16,7 +16,6 @@ modules:
       - gstreamer1-vaapi
       - intel-media-driver
       - mesa-va-drivers-freeworld
-      - mesa-vdpau-drivers-freeworld
       - mesa-vulkan-drivers-freeworld
       - pipewire-codec-aptx
       - unrar
