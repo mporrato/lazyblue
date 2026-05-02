@@ -15,6 +15,7 @@ modules:
       - gstreamer1-plugins-ugly
       - gstreamer1-vaapi
       - intel-media-driver
+      - libva-intel-driver
       - mesa-va-drivers-freeworld
       - mesa-vulkan-drivers-freeworld
       - pipewire-codec-aptx
@@ -28,7 +29,5 @@ modules:
       - libavfilter-free
       - libavformat-free
       - libavutil-free
-      - libpostproc-free
       - libswresample-free
       - libswscale-free
-      - mesa-va-drivers

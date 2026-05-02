@@ -6,3 +6,4 @@
 *.iso
 .bluebuild-scripts_*
 Containerfile
+/.bluebuild-scripts_*
