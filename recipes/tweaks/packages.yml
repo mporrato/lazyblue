@@ -19,11 +19,15 @@ modules:
       - syncthing
       - tcpdump
       - tmux
-      - vim
+      - uv
       - vim-ale
+      - vim-default-editor
+      - vim-enhanced
+      - vim-fugitive
       - vim-nerdtree
       - yq
       - zstd
     remove:
       - firefox
       - firefox-langpacks
+      - nano-default-editor
