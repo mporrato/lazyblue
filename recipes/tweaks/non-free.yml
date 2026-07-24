@@ -31,3 +31,4 @@ modules:
       - libavutil-free
       - libswresample-free
       - libswscale-free
+      - mesa-vulkan-drivers
